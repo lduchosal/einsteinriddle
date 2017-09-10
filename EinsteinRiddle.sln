@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EinsteinRiddle", "EinsteinRiddle\EinsteinRiddle.csproj", "{FEF02617-5FF3-4A5D-9935-E648C488051A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{E60D6195-2143-457F-99AF-D3AB3F4E2961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF02617-5FF3-4A5D-9935-E648C488051A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF02617-5FF3-4A5D-9935-E648C488051A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF02617-5FF3-4A5D-9935-E648C488051A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF02617-5FF3-4A5D-9935-E648C488051A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60D6195-2143-457F-99AF-D3AB3F4E2961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60D6195-2143-457F-99AF-D3AB3F4E2961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60D6195-2143-457F-99AF-D3AB3F4E2961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60D6195-2143-457F-99AF-D3AB3F4E2961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
